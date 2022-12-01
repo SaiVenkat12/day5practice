@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\largestnum\bin\Debug\net6.0\largestnum.exe
+C:\Users\venky\source\upLoads\largestnum\bin\Debug\net6.0\largestnum.deps.json
+C:\Users\venky\source\upLoads\largestnum\bin\Debug\net6.0\largestnum.runtimeconfig.json
+C:\Users\venky\source\upLoads\largestnum\bin\Debug\net6.0\largestnum.dll
+C:\Users\venky\source\upLoads\largestnum\bin\Debug\net6.0\largestnum.pdb
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.dll
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\refint\largestnum.dll
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.pdb
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\largestnum.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\largestnum\obj\Debug\net6.0\ref\largestnum.dll
