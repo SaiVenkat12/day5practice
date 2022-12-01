@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\HarmonicNum\bin\Debug\net6.0\HarmonicNum.exe
+C:\Users\venky\source\upLoads\HarmonicNum\bin\Debug\net6.0\HarmonicNum.deps.json
+C:\Users\venky\source\upLoads\HarmonicNum\bin\Debug\net6.0\HarmonicNum.runtimeconfig.json
+C:\Users\venky\source\upLoads\HarmonicNum\bin\Debug\net6.0\HarmonicNum.dll
+C:\Users\venky\source\upLoads\HarmonicNum\bin\Debug\net6.0\HarmonicNum.pdb
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.dll
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\refint\HarmonicNum.dll
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.pdb
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\HarmonicNum.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\HarmonicNum\obj\Debug\net6.0\ref\HarmonicNum.dll
