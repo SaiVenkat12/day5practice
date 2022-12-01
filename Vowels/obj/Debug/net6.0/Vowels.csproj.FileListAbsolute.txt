@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\Vowels\bin\Debug\net6.0\Vowels.exe
+C:\Users\venky\source\upLoads\Vowels\bin\Debug\net6.0\Vowels.deps.json
+C:\Users\venky\source\upLoads\Vowels\bin\Debug\net6.0\Vowels.runtimeconfig.json
+C:\Users\venky\source\upLoads\Vowels\bin\Debug\net6.0\Vowels.dll
+C:\Users\venky\source\upLoads\Vowels\bin\Debug\net6.0\Vowels.pdb
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.dll
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\refint\Vowels.dll
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.pdb
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\Vowels.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\Vowels\obj\Debug\net6.0\ref\Vowels.dll
