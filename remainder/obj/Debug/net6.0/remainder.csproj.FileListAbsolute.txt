@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\remainder\bin\Debug\net6.0\remainder.exe
+C:\Users\venky\source\upLoads\remainder\bin\Debug\net6.0\remainder.deps.json
+C:\Users\venky\source\upLoads\remainder\bin\Debug\net6.0\remainder.runtimeconfig.json
+C:\Users\venky\source\upLoads\remainder\bin\Debug\net6.0\remainder.dll
+C:\Users\venky\source\upLoads\remainder\bin\Debug\net6.0\remainder.pdb
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.dll
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\refint\remainder.dll
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.pdb
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\remainder.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\remainder\obj\Debug\net6.0\ref\remainder.dll

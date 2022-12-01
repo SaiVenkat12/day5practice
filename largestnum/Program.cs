@@ -1,6 +1,6 @@
 ﻿
 using System;
-namespace consoleapp1
+namespace largestnum
 {
     internal class program
     {
