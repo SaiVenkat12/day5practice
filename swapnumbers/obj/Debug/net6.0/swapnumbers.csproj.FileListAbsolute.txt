@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\swapnumbers\bin\Debug\net6.0\swapnumbers.exe
+C:\Users\venky\source\upLoads\swapnumbers\bin\Debug\net6.0\swapnumbers.deps.json
+C:\Users\venky\source\upLoads\swapnumbers\bin\Debug\net6.0\swapnumbers.runtimeconfig.json
+C:\Users\venky\source\upLoads\swapnumbers\bin\Debug\net6.0\swapnumbers.dll
+C:\Users\venky\source\upLoads\swapnumbers\bin\Debug\net6.0\swapnumbers.pdb
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.dll
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\refint\swapnumbers.dll
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.pdb
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\swapnumbers.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\swapnumbers\obj\Debug\net6.0\ref\swapnumbers.dll
