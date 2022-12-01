@@ -1,0 +1,15 @@
+C:\Users\venky\source\upLoads\Leapyear\bin\Debug\net6.0\Leapyear.exe
+C:\Users\venky\source\upLoads\Leapyear\bin\Debug\net6.0\Leapyear.deps.json
+C:\Users\venky\source\upLoads\Leapyear\bin\Debug\net6.0\Leapyear.runtimeconfig.json
+C:\Users\venky\source\upLoads\Leapyear\bin\Debug\net6.0\Leapyear.dll
+C:\Users\venky\source\upLoads\Leapyear\bin\Debug\net6.0\Leapyear.pdb
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.csproj.AssemblyReference.cache
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.AssemblyInfoInputs.cache
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.AssemblyInfo.cs
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.csproj.CoreCompileInputs.cache
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.dll
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\refint\Leapyear.dll
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.pdb
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\Leapyear.genruntimeconfig.cache
+C:\Users\venky\source\upLoads\Leapyear\obj\Debug\net6.0\ref\Leapyear.dll
